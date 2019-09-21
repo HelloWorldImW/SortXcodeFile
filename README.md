@@ -24,7 +24,7 @@ git clone https://github.com/HelloWorldImW/SortXcodeFile.git
 ## Usage
 
 ```sh
-./test.rb your_project.xcodeproj
+./sort.rb your_project.xcodeproj
 ```
 
 ## Author
